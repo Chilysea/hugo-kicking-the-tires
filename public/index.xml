@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to My Hugo Site on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to My Hugo Site on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Feb 2025 22:29:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 09 Feb 2025 22:29:15 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me&lt;/h1&gt;&#xA;&lt;p&gt;You can reach me at:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:test@testdomain.com&#34;&gt;test@testdomain.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: (123) 456-7890&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sun, 09 Feb 2025 22:15:38 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;resume-example&#34;&gt;Resume example&lt;/h1&gt;&#xA;&lt;p&gt;Experience: SWE&#xA;Class: 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 09 Feb 2025 22:12:02 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sun, 09 Feb 2025 21:48:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 09 Feb 2025 21:42:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
